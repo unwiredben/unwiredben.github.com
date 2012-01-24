@@ -1,3 +1,7 @@
+---
+layout: default
+title: test
+---
 # Projects
 
 Ben is actively working on several projects.  These include:
