@@ -1,8 +1,3 @@
-<!--
-layout: default
-title: Home
--->
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -21,20 +16,15 @@ title: Home
     <![endif]-->
 
     <!-- Le styles -->
-    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
-    <!--<link rel="stylesheet" href="bootstrap/css/bootstrap.min.responsive">-->
+    <link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.4.0/bootstrap.min.css">
     <style type="text/css">
       body {
         padding-top: 50px;
+        position: relative;
       }
       section {
         padding-top: 50px;
       }
-      /* override, make smaller than 60px */
-      .hero-unit h1 {
-        font-size: 46px;
-      }
-      .brand { margin-left: 20px; }
       /* style mods based on http://colorschemedesigner.com/#3j22q9VvKhoMn */
       .hero-unit { background-color: #D2E7E8; }
       h2 { color: #3E797C; }
@@ -44,13 +34,15 @@ title: Home
     <link rel="shortcut icon" href="favicon.ico">
   </head>
 
-  <body data-spy="scroll">
-  <div class="navbar navbar-fixed-top">
-      <div class="navbar-inner">
+  <body>
+
+  <header>
+    <div class="topbar" data-scrollspy="scrollspy">
+      <div class="topbar-inner">
         <div class="container">
           <a class="brand" href="#">combee.net</a>
           <ul class="nav">
-            <li><a href="#projects">Projects</a></li>
+            <li class="active"><a href="#projects">Projects</a></li>
             <li><a href="#biography">Biography</a></li>
             <li><a href="#contact">Contact</a></li>
             <li><a href="#trivia">Trivia</a></li>
@@ -58,19 +50,20 @@ title: Home
         </div>
       </div>
     </div>
+  </header>
 
-  <div class="container-fluid">
+  <div class="container">
     <div class="hero-unit">
       <img src="pokemon-combee-100x100.png" width=100 height=100 style="float:left; padding-right: 15px;">
       <h1>combee.net</h1>
-      <p>Ben Combee, webOS, Enyo,  &amp; open-source developer, occasional hardware hacker
+      <p>Ben Combee, webOS &amp; open-source software developer, occasional hardware hacker
     </div>
 
     <section id="projects">
       <h2>Projects</h2>
       <p>Ben is actively working on several projects.  These include:
       <ul>
-      <li><a href="http://www.enyojs.com">Enyo</a> JavaScript framework
+      <li><!--<a href="http://www.enyojs.com">-->Enyo JavaScript framework<!--</a>-->
       <li><a href="http://developer.palm.com">HP webOS</a> mobile operating system
       <li><a href="http://webduino.googlecode.com">Webduino</a> embedded HTTP server library
       </ul>
@@ -153,7 +146,7 @@ title: Home
 
   <!-- Le javascript -->
   <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
-  <script src="bootstrap/js/bootstrap.min.js"></script>
-  <script>$('#navbar').scrollspy();</script>
+  <script src="http://twitter.github.com/bootstrap/1.4.0/bootstrap-scrollspy.js"></script>
+
   </body>
 </html>
