@@ -18,10 +18,17 @@ body {
 	margin-left: 10px;
 }
 
+.cryptogram {
+	margin: 10px;
+	padding: 20px 50px;
+	background-color: #BBBBBB;
+}
+
 .cell {
 	float: left;
-	width: 20px;
-	margin: 10px 0px 10px 8px;
+	width: 24px;
+	padding: 10px 5px 3px;
+	margin: 2px;
 	font: 18px "Courier New", Courier, monospace;
 	text-align: center;
 	line-height: 80%;
@@ -32,15 +39,14 @@ body {
 	color: navy;
 }
 
-.cell:hover {
-	color: red;
+.selectedCell {
+	background-color: green;
+	color: white;
 	cursor: pointer;
 }
 
-.cryptogram {
-	margin: 10px;
-	padding: 20px 50px;
-	background-color: #BBBBBB;
+.selectedCell > .top {
+	color: white;
 }
 
 .topButtons {

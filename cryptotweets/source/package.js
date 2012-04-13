@@ -1,6 +1,9 @@
 ﻿enyo.depends(
-	"$lib/extra/jsonp",
 	"app.css",
-	"TestPuzzles.js",
+	"utils.js",
+	"Cypher.js",
+	"Cell.js",
+	"Distribution.js",
+	"Cryptogram.js",
 	"App.js"
 );
