@@ -1,0 +1,27 @@
+<streams>
+<stream url="http://www.publicbroadcasting.net/kut/ppr/kut.pls" id="4dbdffc5-26bf-9e44-fbde-c8c77db00001" mimeType="audio/x-scpls" name="KUT 90.5FM Austin" />
+<stream url="http://www.publicbroadcasting.net/kut/ppr/kut2.pls" id="4dbdffc5-26bf-9e44-fbde-c8c77db00002" mimeType="audio/x-scpls" name="KUTX 98.8FM Austin" />
+<stream url="http://streaming.wrek.org:8000/wrek_live-128kb.m3u" id="4dbdffc5-26bf-9e44-fbde-c8c77db00003" mimeType="audio/x-mpegurl" name="WREK 91.1FM Atlanta" />
+<stream url="http://somafm.com/groovesalad.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db00001" mimeType="audio/x-scpls" name="Groove Salad (soma.fm)" />
+<stream url="http://somafm.com/secretagent.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db00002" mimeType="audio/x-scpls" name="Secret Agent (soma.fm)" />
+<stream url="http://somafm.com/dronezone.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db00003" mimeType="audio/x-scpls" name="Drone Zone (soma.fm)" />
+<stream url="http://somafm.com/indiepop.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db00004" mimeType="audio/x-scpls" name="Indie Pop Rocks! (soma.fm)" />
+<stream url="http://somafm.com/cliqhop.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db00006" mimeType="audio/x-scpls" name="cliqhop idm (soma.fm)" />
+<stream url="http://somafm.com/beatblender.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db00007" mimeType="audio/x-scpls" name="beatblender (soma.fm)" />
+<stream url="http://somafm.com/tags.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db00008" mimeType="audio/x-scpls" name="Tag&apos;s Trip (soma.fm)" />
+<stream url="http://somafm.com/illstreet.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db00009" mimeType="audio/x-scpls" name="Illinois Street Lounge (soma.fm)" />
+<stream url="http://somafm.com/spacestation.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db0000a" mimeType="audio/x-scpls" name="Space Station Soma (soma.fm)" />
+<stream url="http://somafm.com/doomed.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db0000b" mimeType="audio/x-scpls" name="Doomed (soma.fm)" />
+<stream url="http://somafm.com/bootliquor.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db0000c" mimeType="audio/x-scpls" name="Boot Liquor (soma.fm)" />
+<stream url="http://somafm.com/lush.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db0000d" mimeType="audio/x-scpls" name="Lush (soma.fm)" />
+<stream url="http://somafm.com/digitalis.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db0000e" mimeType="audio/x-scpls" name="Digitalis (soma.fm)" />
+<stream url="http://somafm.com/suburbsofgoa.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db0000f" mimeType="audio/x-scpls" name="Suburbs of Goa (soma.fm)" />
+<stream url="http://somafm.com/sonicuniverse.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db00010" mimeType="audio/x-scpls" name="Sonic Universe (soma.fm)" />
+<stream url="http://somafm.com/poptron.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db00011" mimeType="audio/x-scpls" name="PopTron (soma.fm)" />
+<stream url="http://somafm.com/covers.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db00012" mimeType="audio/x-scpls" name="Covers (soma.fm)" />
+<stream url="http://somafm.com/brfm.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db00013" mimeType="audio/x-scpls" name="Black Rock FM (soma.fm)" />
+<stream url="http://somafm.com/missioncontrol.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db00014" mimeType="audio/x-scpls" name="Mission Control (soma.fm)" />
+<stream url="http://somafm.com/480min.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db00015" mimeType="audio/x-scpls" name="480 Minutes (soma.fm)" />
+<stream url="http://somafm.com/u80s.pls" id="4dbdffc5-26bf-9e44-fbde-c8c76db00016" mimeType="audio/x-scpls" name="Underground 80s (soma.fm)" />
+</streams>
+
