@@ -22,12 +22,14 @@
                 "35C3"
             ],
             "thumbnail":"https://www.combee.net/roku-ccc/35c3_1920x1080_logo.jpg",
-            "releaseDate":"2018-12-29",
+            "releaseDate":"2018-12-28",
             "shortDescription":"The 35th Chaos Communication Congress (35C3) is was the 2018 edition of the annual four-day conference on technology, society and utopia organised by the Chaos Computer Club (CCC) and volunteers.",
             "episodes":[
                 {
                     "id":"7ee42591-4f4d-481d-884b-44f5e18e1803",
                     "title":"In Soviet Russia Smart Card Hacks You",
+                    "episodeNumber": 9346,
+                    "releaseDate":"2018-12-30T00:00:00+00:00",
                     "credits":[
                         {
                             "name":"Eric Sesterhenn",
@@ -53,6 +55,8 @@
                 {
                     "id":"5a8097ad-15c2-492e-8bc4-6b634fd8e963",
                     "title":"Russia vs. Telegram: technical notes on the battle",
+                    "episodeNumber": 9653,
+                    "releaseDate":"2018-12-29T00:00:00+00:00",
                     "credits":[
                         {
                             "name":"Leonid Evdokimov (darkk)",
@@ -78,6 +82,8 @@
                 {
                     "id":"2375222b-7dae-4bca-a5b0-aea227ab0d76",
                     "title":"A deep dive into the world of DOS viruses",
+                    "episodeNumber": 9617,
+                    "releaseDate":"2018-12-28T00:00:00.000+01:00",
                     "credits":[
                         {
                             "name":"Ben Cartwright-Cox",
@@ -103,6 +109,8 @@
                 {
                     "id":"64d3f3f5-5665-4050-ba15-0db530ecc262",
                     "title":"Safe and Secure Drivers in High-Level Languages",
+                    "episodeNumber": 9670,
+                    "releaseDate": "2018-12-29T00:00:00.000+01:00",
                     "credits":[
                         {
                             "role":"host",
