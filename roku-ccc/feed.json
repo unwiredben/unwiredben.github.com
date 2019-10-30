@@ -2,12 +2,20 @@
     "providerName": "media.ccc.de",
     "lastUpdated": "2019-10-30T00:00:00+00:00",
     "language": "en",
+    "categories": [
+        {
+            "name": "35c3 (2018)",
+            "query": "35c3",
+            "order": "most_recent"
+        }
+    ],
     "shortFormVideos": [
         {
           "id": "7ee42591-4f4d-481d-884b-44f5e18e1803",
           "title": "35c3: In Soviet Russia Smart Card Hacks You",
           "content": {
             "dateAdded": "2018-12-30",
+            "tags": "35c3",
             "videos": [
                 {
                     "url": "https://cdn.media.ccc.de/congress/2018/slides-h264-hd/35c3-9346-eng-deu-fra-In_Soviet_Russia_Smart_Card_Hacks_You_hd-slides.mp4",
