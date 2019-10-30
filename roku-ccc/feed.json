@@ -3,30 +3,30 @@
     "lastUpdated": "2019-10-30T00:00:00+00:00",
     "language": "en",
     "shortFormVideo": [
-		{
+        {
           "id": "7ee42591-4f4d-481d-884b-44f5e18e1803",
-	      "title": "35c3: In Soviet Russia Smart Card Hacks You",
-		  "content": {
-		  	"dateAdded": "2018-12-30",
-		  	"videos": [
-		  		{
-		  			"url": "https://cdn.media.ccc.de/congress/2018/slides-h264-hd/35c3-9346-eng-deu-fra-In_Soviet_Russia_Smart_Card_Hacks_You_hd-slides.mp4",
-  					"quality": "SD",
-  					"videoType": "MP4"
-				},
-		  		{
-		  			"url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-9346-eng-In_Soviet_Russia_Smart_Card_Hacks_You.mp4",
-  					"quality": "HD",
-  					"videoType": "MP4"
-				}
-		  	],
-	        "duration": 2295,
-	        "language": "en"
-		  },
-		  "thumbnail": "https://static.media.ccc.de/media/congress/2018/9346-hd_preview.jpg",
-		  "shortDescription": "a 35c3 talk by Eric Sesterhenn",
-		  "longDescription": "The classic spy movie hacking sequence: The spy inserts a magic smart card provided by the agency technicians into the enemy's computer, … the screen unlocks … What we all laughed about is possible!\n\nSmartcards are secure and trustworthy. This is the idea smart card driver developers have in mind when developing drivers and smart card software. The work presented in this talk not only challenges, but crushes this assumption by attacking drivers using malicious smart cards.\n\nWe will present a fuzzing framework for *nix and Windows along with some interesting bugs found by auditing and fuzzing smart card drivers and middleware. Among them classic stack and heap buffer overflows, double frees, but also a replay attack against smart card authentication.\n\nSince smart cards are used in the authentication process, a lot of vulnerabilities can be triggered by an unauthenticated user, in code running with high privileges. During the author's research, bugs were discovered in OpenSC (EPass, PIV, OpenPGP, CAC, Cryptoflex …), YubiKey drivers, pam_p11, pam_pkc11, Apple's smartcard-services and others.",
-		  "releaseDate": "2018-12-30",
-		}
+          "title": "35c3: In Soviet Russia Smart Card Hacks You",
+          "content": {
+            "dateAdded": "2018-12-30",
+            "videos": [
+                {
+                    "url": "https://cdn.media.ccc.de/congress/2018/slides-h264-hd/35c3-9346-eng-deu-fra-In_Soviet_Russia_Smart_Card_Hacks_You_hd-slides.mp4",
+                    "quality": "SD",
+                    "videoType": "MP4"
+                },
+                {
+                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-9346-eng-In_Soviet_Russia_Smart_Card_Hacks_You.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                }
+            ],
+            "duration": 2295,
+            "language": "en"
+          },
+          "thumbnail": "https://static.media.ccc.de/media/congress/2018/9346-hd_preview.jpg",
+          "shortDescription": "a 35c3 talk by Eric Sesterhenn",
+          "longDescription": "The classic spy movie hacking sequence: The spy inserts a magic smart card provided by the agency technicians into the enemy's computer, … the screen unlocks … What we all laughed about is possible!\n\nSmartcards are secure and trustworthy. This is the idea smart card driver developers have in mind when developing drivers and smart card software. The work presented in this talk not only challenges, but crushes this assumption by attacking drivers using malicious smart cards.\n\nWe will present a fuzzing framework for *nix and Windows along with some interesting bugs found by auditing and fuzzing smart card drivers and middleware. Among them classic stack and heap buffer overflows, double frees, but also a replay attack against smart card authentication.\n\nSince smart cards are used in the authentication process, a lot of vulnerabilities can be triggered by an unauthenticated user, in code running with high privileges. During the author's research, bugs were discovered in OpenSC (EPass, PIV, OpenPGP, CAC, Cryptoflex …), YubiKey drivers, pam_p11, pam_pkc11, Apple's smartcard-services and others.",
+          "releaseDate": "2018-12-30"
+        }
     ]
 }
