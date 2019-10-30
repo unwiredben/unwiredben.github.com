@@ -8,14 +8,24 @@
             "query": "35c3",
             "order": "most_recent"
         }
+        {
+            "name": "34c3 (2017)",
+            "query": "34c3",
+            "order": "most_recent"
+        }
+        {
+            "name": "33c3 (2016)",
+            "query": "33c3",
+            "order": "most_recent"
+        }
     ],
     "shortFormVideos": [
         {
           "id": "7ee42591-4f4d-481d-884b-44f5e18e1803",
           "title": "In Soviet Russia Smart Card Hacks You",
+          "tags": ["35c3"],
           "content": {
             "dateAdded": "2018-12-30T00:00:00+00:00",
-            "tags": ["35c3"],
             "videos": [
                 {
                     "url": "https://cdn.media.ccc.de/congress/2018/slides-h264-hd/35c3-9346-eng-deu-fra-In_Soviet_Russia_Smart_Card_Hacks_You_hd-slides.mp4",
@@ -39,9 +49,9 @@
         {
           "id": "5a8097ad-15c2-492e-8bc4-6b634fd8e963",
           "title": "Russia vs. Telegram: technical notes on the battle",
+          "tags": ["35c3"],
           "content": {
             "dateAdded": "2018-12-29T00:00:00+00:00",
-            "tags": ["35c3"],
             "videos": [
                 {
                     "url": "https://cdn.media.ccc.de/congress/2018/h264-sd/35c3-9653-eng-deu-fra-Russia_vs_Telegram_technical_notes_on_the_battle_sd.mp4",
