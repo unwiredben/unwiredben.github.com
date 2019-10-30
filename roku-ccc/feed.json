@@ -9,11 +9,12 @@
             "order": "most_recent"
         }
     ],
-    "shortFormVideos": [
+    "tvSpecials": [
         {
           "id": "7ee42591-4f4d-481d-884b-44f5e18e1803",
-          "title": "In Soviet Russia Smart Card Hacks You",
+          "title": "35c3: In Soviet Russia Smart Card Hacks You",
           "tags": ["35c3"],
+          "credits": [ {"name": "Eric Sesterhenn", "role": "host"} ],
           "content": {
             "dateAdded": "2018-12-30T00:00:00+00:00",
             "videos": [
@@ -32,14 +33,15 @@
             "language": "en"
           },
           "thumbnail": "https://static.media.ccc.de/media/congress/2018/9346-hd_preview.jpg",
-          "shortDescription": "a 35c3 talk by Eric Sesterhenn",
+          "shortDescription": "The classic spy movie hacking sequence: The spy inserts a magic smart card provided by the agency technicians into the enemy's computer, … the screen unlocks … What we all laughed about is possible!",
           "longDescription": "The classic spy movie hacking sequence: The spy inserts a magic smart card provided by the agency technicians into the enemy's computer, … the screen unlocks … What we all laughed about is possible!\n\nSmartcards are secure and trustworthy. This is the idea smart card driver developers have in mind when developing drivers and smart card software. The work presented in this talk not only challenges, but crushes this assumption by attacking drivers using malicious smart cards.\n\nWe will present a fuzzing framework for *nix and Windows along with some interesting bugs found by auditing and fuzzing smart card drivers and middleware. Among them classic stack and heap buffer overflows, double frees, but also a replay attack against smart card authentication.\n\nSince smart cards are used in the authentication process, a lot of vulnerabilities can be triggered by an unauthenticated user, in code running with high privileges. During the author's research, bugs were discovered in OpenSC (EPass, PIV, OpenPGP, CAC, Cryptoflex …), YubiKey drivers, pam_p11, pam_pkc11, Apple's smartcard-services and others.",
           "releaseDate": "2018-12-30"
         },
         {
           "id": "5a8097ad-15c2-492e-8bc4-6b634fd8e963",
-          "title": "Russia vs. Telegram: technical notes on the battle",
+          "title": "35c3: Russia vs. Telegram: technical notes on the battle",
           "tags": ["35c3"],
+          "credits": [ {"name": "Leonid Evdokimov (darkk)", "role": "host"} ],
           "content": {
             "dateAdded": "2018-12-29T00:00:00+00:00",
             "videos": [
@@ -58,7 +60,7 @@
             "language": "en"
           },
           "thumbnail": "https://static.media.ccc.de/media/congress/2018/9653-hd_preview.jpg",
-          "shortDescription": "a 35c3 talk by Leonid Evdokimov (darkk)",
+          "shortDescription": "It's time to highlight facts and epic fails that were observed on the wire during attempts to block Telegram in Russia.",
           "longDescription": "It's time to highlight facts and epic fails that were observed on the wire during attempts to block Telegram in Russia.\n\n\nRussian Federal Service for Supervision of Communications, IT and Mass Media started the process to ban Telegram on April the 16th. Roskomnadzor press-office claimed that the process will take a few hours. Telegram mostly worked in Russia during the incident beginning and still works half a year later.\n\nRussia banned Amazon, Google, Microsoft, DigitalOcean, Hetzner and other networks covering almost 0.5% of Internet Protocol address space, presumably, to put pressure on international businesses to make Telegram persona non-grata on those networks.\n\nRussia also banned IP addresses of major local businesses (VKontakte, Yandex and others), presumably, by mistake. A flaw in the filter was exploited to bring one of the major ISPs down for a while. Moscow Internet exchange point announced that alike flaw of the filter could be used to disrupt peering. Proxy-hunting experiments were observed sniffing live network traffic, both for obfuscated MTProto proxy and good old Socks5.\n\nThis talk will <em>not</em> cover legal aspects of the lawyers fighting for Telegram in court. Also, it will <em>not</em> show any \"insider\" information from Telegram team.",
           "releaseDate": "2018-12-29"
         }
