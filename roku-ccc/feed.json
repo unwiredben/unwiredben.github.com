@@ -33,7 +33,7 @@
                     "credits":[
                         {
                             "name":"Eric Sesterhenn",
-                            "role":"host"
+                            "role":"actor"
                         }
                     ],
                     "content":{
@@ -60,7 +60,7 @@
                     "credits":[
                         {
                             "name":"Leonid Evdokimov (darkk)",
-                            "role":"host"
+                            "role":"actor"
                         }
                     ],
                     "content":{
@@ -87,7 +87,7 @@
                     "credits":[
                         {
                             "name":"Ben Cartwright-Cox",
-                            "role":"host"
+                            "role":"actor"
                         }
                     ],
                     "content":{
@@ -113,15 +113,15 @@
                     "releaseDate": "2018-12-29T00:00:00.000+01:00",
                     "credits":[
                         {
-                            "role":"host",
+                            "role":"actor",
                             "name":"Paul Emmerich"
                         },
                         {
-                            "role":"host",
+                            "role":"actor",
                             "name":"Simon Ellmann"
                         },
                         {
-                            "role":"host",
+                            "role":"actor",
                             "name":"Sebastian Voit"
                         }
                     ],
