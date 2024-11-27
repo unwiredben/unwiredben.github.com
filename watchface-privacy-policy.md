@@ -1,4 +1,9 @@
-# Privacy policy
+<!--
+layout: default
+title: Unwired Widgets Privacy Policy
+-->
+
+# Privacy policy for Unwired Widgets applications
 
 Ben Combee (doing business as Unwired Widgets) builds its watch faces as free or paid application.
 They are provided by UnwiredWidget for use as is.
